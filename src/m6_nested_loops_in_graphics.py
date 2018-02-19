@@ -172,9 +172,8 @@ def draw_wall_on_right(rectangle, n, window):
         y1 += rectangle.get_height()
         y2 += rectangle.get_height()
         x1 = start_x
-
-
-x2 = end_x
+        x2 = end_x
+        
 
 # ----------------------------------------------------------------------
 # Calls  main  to start the ball rolling.
